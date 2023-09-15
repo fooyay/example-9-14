@@ -9,6 +9,7 @@ no paragraph break here
 
 but there is a paragraph here
 
+---
 
 for bold, use **two stars**
 
@@ -17,6 +18,11 @@ for italic, use *one star*
 Here's some code: `git status`
 
 Here's another code snippet: `git commit -m 'my message'`
+
+> Block quote of text
+> Here is some more text
+> Yay
+--- 
 
 Link to Google: [Google](https://google.com)
 
