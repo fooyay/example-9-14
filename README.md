@@ -1,24 +1,26 @@
 # example-9-14
 
-## heading
+## subheader
 
-### subheading
+### sub-sub-header
 
 some text
+no paragraph break here
 
-some more text
-
-
-even more text
+but there is a paragraph here
 
 
-**yay**
+for bold, use **two stars**
+
+for italic, use *one star*
+
+Here's some code: `git status`
+
+Here's another code snippet: `git commit -m 'my message'`
+
+Link to Google: [Google](https://google.com)
+
+Image of Lucy: ![Lucy](LucyBooth.webp)
 
 
 
-addd some more text
-
-
-yet another change
-
-omg yes one more change
